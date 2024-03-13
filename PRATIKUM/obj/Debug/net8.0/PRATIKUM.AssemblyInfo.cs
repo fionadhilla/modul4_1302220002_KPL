@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRATIKUM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea122bc5241e8a0c9330bf11d70a2387e256c937")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b83958cf4fff04bb5fd8880dac25061b01edcd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRATIKUM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRATIKUM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
