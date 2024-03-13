@@ -1,0 +1,15 @@
+D:\PRATIKUM\PRATIKUM\bin\Debug\net8.0\PRATIKUM.exe
+D:\PRATIKUM\PRATIKUM\bin\Debug\net8.0\PRATIKUM.deps.json
+D:\PRATIKUM\PRATIKUM\bin\Debug\net8.0\PRATIKUM.runtimeconfig.json
+D:\PRATIKUM\PRATIKUM\bin\Debug\net8.0\PRATIKUM.dll
+D:\PRATIKUM\PRATIKUM\bin\Debug\net8.0\PRATIKUM.pdb
+D:\PRATIKUM\PRATIKUM\obj\Debug\net8.0\PRATIKUM.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRATIKUM\PRATIKUM\obj\Debug\net8.0\PRATIKUM.AssemblyInfoInputs.cache
+D:\PRATIKUM\PRATIKUM\obj\Debug\net8.0\PRATIKUM.AssemblyInfo.cs
+D:\PRATIKUM\PRATIKUM\obj\Debug\net8.0\PRATIKUM.csproj.CoreCompileInputs.cache
+D:\PRATIKUM\PRATIKUM\obj\Debug\net8.0\PRATIKUM.sourcelink.json
+D:\PRATIKUM\PRATIKUM\obj\Debug\net8.0\PRATIKUM.dll
+D:\PRATIKUM\PRATIKUM\obj\Debug\net8.0\refint\PRATIKUM.dll
+D:\PRATIKUM\PRATIKUM\obj\Debug\net8.0\PRATIKUM.pdb
+D:\PRATIKUM\PRATIKUM\obj\Debug\net8.0\PRATIKUM.genruntimeconfig.cache
+D:\PRATIKUM\PRATIKUM\obj\Debug\net8.0\ref\PRATIKUM.dll
